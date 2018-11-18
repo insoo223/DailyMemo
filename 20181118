@@ -46,8 +46,13 @@ Intel® Neural Compute Stick
 https://software.intel.com/en-us/neural-compute-stick/get-started
 OS: Ubuntu* 16.04 (desktop edition)
 install the Intel® Distribution of OpenVINO™ toolkit
-Adding AI to the Raspberry Pi with the Movidius Neural Compute Stick
+Best: Adding AI to the Raspberry Pi with the Movidius Neural Compute Stick
 https://www.bouvet.no/bouvet-deler/adding-ai-to-edge-devices-with-the-movidius-neural-compute-stick
+--> 이상한, 아픈, 흠집난 돼지 찾기
+Best: Getting started with the Intel Movidius Neural Compute Stick
+https://www.pyimagesearch.com/2018/02/12/getting-started-with-the-intel-movidius-neural-compute-stick/
+Mark Jay
+https://www.youtube.com/channel/UC2W0aQEPNpU6XrkFCYifRFQ
 
 The camera is only about an inch square, it's small enough for handheld and embedded applications.
 It's equipped with a USB port for host connectivity, as well as four bi-directional general-purpose input/output (GPIO) lines.
