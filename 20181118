@@ -26,7 +26,15 @@ http://movidius-uploads.s3.amazonaws.com/1463156689-2016-04-29_VPU_ProductBrief.
 Intel Neural Compute Stick 2 ($99)
 NCSM2485.DK: Development Boards & Kits - Other Processors Movidius Neural Compute Stk 2 MX VPU
 https://www.mouser.com/ProductDetail/Intel/NCSM2485DK?qs=byeeYqUIh0OB4GXNqgW8aw%3d%3d
+More Cores. More AI Inference.
+https://software.intel.com/en-us/neural-compute-stick
 https://www.mouser.com/new/Intel/intel-neural-compute-stick-2/
+Machine Learning and Mammography
+https://software.intel.com/en-us/articles/machine-learning-and-mammography
+IOTJUMPWAY
+https://www.iotjumpway.tech
+Convolutional Neural Networks: a type of deep learning
+https://skymind.ai/wiki/neural-network
 
 Develop Multiplatform Computer Vision Solutions
 Explore the Intel® Distribution of OpenVINO™ toolkit
@@ -38,3 +46,51 @@ Intel® Neural Compute Stick
 https://software.intel.com/en-us/neural-compute-stick/get-started
 OS: Ubuntu* 16.04 (desktop edition)
 install the Intel® Distribution of OpenVINO™ toolkit
+Adding AI to the Raspberry Pi with the Movidius Neural Compute Stick
+https://www.bouvet.no/bouvet-deler/adding-ai-to-edge-devices-with-the-movidius-neural-compute-stick
+
+The camera is only about an inch square, it's small enough for handheld and embedded applications.
+It's equipped with a USB port for host connectivity, as well as four bi-directional general-purpose input/output (GPIO) lines.
+Farms could use the Firefly to help analyze crop conditions,
+https://www.zdnet.com/article/flirs-firefly-camera-uses-intel-movidius-chips-for-on-camera-inference/
+https://www.amazon.com/Crazepony-Camera-Hawkeye-Firefly-FOV160°/dp/B07BGZLLTN
+DE1250 Wireless Endoscope Camera
+https://fireflyglobal.com/de1250-wireless-endoscope-camera/
+
+PCB making, PCB prototyping quickly and easy - STEP by STEP
+https://www.youtube.com/watch?v=zRdJrE80Vjk
+Desktop CNC machines that work
+https://carbide3d.com
+pcb2gcode plugin for the Eagle to generate gcode to mill circuit boards directly from within Eagle.
+https://carbide3d.com/projects/021-pcb/
+http://community.carbide3d.com/t/nomad-great-results-milling-pcbs-from-eagle/283
+SprintLayout for PCB design
+https://www.electronic-software-shop.com/lng/en/electronic-software/sprint-layout-60.html?language=en
+Sprint-Layout - The Ultimate Tutorial And Experience
+https://www.wellpcb.com/pcb/sprint-layout.html
+
+
+How to Build a Z80 Computer, Part 1: The CPU
+https://maker.pro/pic/projects/z80-computer-project-part-1-the-cpu
+How to Build a Z80 Computer, Part 2: Memory
+https://maker.pro/pic/projects/build-your-own-z80-computer-project-part-2-memory
+Part three of a series on how to build your own computer from scratch, based around the Z80 CPU
+https://maker.pro/pic/projects/z80-project-part-3-eeprom-programmer
+
+steve-chamberlin/backwoods-logger (Elsa ref)
+https://github.com/steve-chamberlin/backwoods-logger/wiki/Assembly-Instructions
+
+Google search: pig farm sensor / open source farming
+
+Android Development
+Handle configuration changes
+https://developer.android.com/guide/topics/resources/runtime-changes
+
+[돈심보감(48) 스마트하게 농장을 드라이브하라] 디지털 혁신 기술의 활용(3)
+http://www.pigpeople.net/mobile/article.html?no=5679
+
+Embedded Elixir for Monitoring the Built Environment
+https://nerves-project.org/watch/
+
+Apple II DOS Source Code
+http://www.computerhistory.org/atchm/apple-ii-dos-source-code/
