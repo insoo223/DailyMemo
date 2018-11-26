@@ -98,3 +98,25 @@ Shanghai
 +86 21 6110 8318
 amk@skov.com
 www.skov.com
+
+
+Arduino HEX location: 1.6.5 has a new command: Under the Sketch menu, select Export compiled Binary, then Show Sketch Folder. There it is.
+https://stackoverflow.com/questions/11607834/where-are-the-hex-files-compiled-by-arduino
+
+Making USBasp Chinese Clones Usable
+http://irq5.io/2017/07/25/making-usbasp-chinese-clones-usable/
+
+Programming the ATtiny10
+http://irq5.io/2010/07/15/programming-the-attiny10/
+
+Writing Code for the ATtiny10
+http://irq5.io/2017/09/09/writing-code-for-the-attiny10/
+
+ATTiny10 Assembly IDE and Device Programmer
+https://sites.google.com/site/wayneholder/attiny-4-5-9-10-assembly-ide-and-programmer
+
+USBASP V2.0 – warning: cannot set sck period
+https://tosiek.pl/usbasp-v2-0-warning-cannot-set-sck-period/
+
+PROGRAMMING THE ATTINY10 WITH AN ARDUINO
+https://hackaday.com/2012/08/23/programming-the-attiny10-with-an-arduino/
