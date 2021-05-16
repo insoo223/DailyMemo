@@ -1,1 +1,6 @@
 memo on github 깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
+
+Serverless (GitLab)
+https://about.gitlab.com/topics/serverless/
+Serverless pros and cons
+https://about.gitlab.com/blog/2019/09/12/is-serverless-the-end-of-ops/
