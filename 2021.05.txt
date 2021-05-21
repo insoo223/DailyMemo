@@ -1,5 +1,15 @@
 memo on github 깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
+2021.5.22 Sat 
+ “ What we usually consider as impossible are simply engineering problems… there’s no law of physics preventing them. ”
+- Michio Kaku (a professor of theoretical physics in the City College of New York and CUNY Graduate Center)
+불가능해 보이는 많은 문제들은 실은 공학 문제들이다. 이런 불가능을 해결하는 것을 막는 자연 법칙은 없다. - 미치고 카쿠
+
+The Future of the Mind by Michio Kaku
+https://en.wikipedia.org/wiki/The_Future_of_the_Mind
+https://www.amazon.com/Future-Mind-Scientific-Understand-Enhance/dp/038553082X
+
+
 Serverless (GitLab)
 https://about.gitlab.com/topics/serverless/
 Serverless pros and cons
