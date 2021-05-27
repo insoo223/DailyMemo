@@ -1,7 +1,15 @@
 ﻿memo on github 깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
 2021.5.26 Wed
+
+Firefox add-ons: React Developer Tools
+https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
+
+Firefox Browser Developer Edition
+https://www.mozilla.org/en-US/firefox/developer/
+
 TIMSVR IP 211.104.198.136
+
 VS Code source (type script) for CPU monitoring
 https://github.com/Njanderson/resmon
 https://marketplace.visualstudio.com/items?itemName=mutantdino.resourcemonitor
