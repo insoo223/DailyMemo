@@ -1,5 +1,26 @@
 ﻿memo on github 깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
+2021.5.31 Mon
+MIT Blockchain video lecture 
+NYT: Global Cactus Traffickers Are Cleaning Out the Deserts https://www.nytimes.com/2021/05/20/science/cactus-trafficking-chile.html
+
+avr8js (a JavaScript library that implementats the AVR 8-bit architecture.)  https://www.npmjs.com/package/avr8js
+A Practical Guide to Designing PCB Art https://blog.wokwi.com/a-practical-guide-to-designing-pcb-art/
+Deprecation of Kernel Extensions https://blog.obdev.at/little-snitch-and-the-deprecation-of-kernel-extensions/
+Cortical Neurons https://bioscience.lonza.com/lonza_bs/KR/en/introduction-to-cortical-neurons-basic-cell-functions-and-applications-in-research
+Abnormal brain connectivity may precede schizophrenia onset https://mcgovern.mit.edu/news/
+Nancy: Face Recognition at the level of Computational Theory (Lite) https://nancysbraintalks.mit.edu/video/22-face-recognition-level-computational-theory-lite
+transfer pricing https://www.investopedia.com/terms/t/transfer-pricing.asp
+Expressing a quadratic form with a matrix https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations/v/expressing-a-quadratic-form-with-a-matrix
+Google News https://news.google.com/topstories?hl=en-US&gl=US&ceid=US:en
+Breaking Point: How Mark Zuckerberg and Tim Cook Became Foes https://www.nytimes.com/2021/04/26/technology/mark-zuckerberg-tim-cook-facebook-apple.html
+How to get all the toothpaste out of the tube: https://www.economist.com/science-and-technology/2021/05/20/how-to-get-all-the-toothpaste-out-of-the-tube
+
+
+
+
+
+
 2021.5.30 Sun
 
 OSIsoft Cloud Services
@@ -7,24 +28,6 @@ https://cloud.osisoft.com/
 
 OSIsoft Cloud Services API Reference
 https://ocs-docs.osisoft.com/Content_Portal/Documentation/OSIsoft_Cloud_Services.html
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Data collection and OSIsoft Message Format
 OSIsoft Message Format (OMF): to achieve high-throughput asynchronous data collection into the Sequential Data Store. 
