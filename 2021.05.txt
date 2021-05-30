@@ -1,5 +1,75 @@
 ﻿memo on github 깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
+2021.5.30 Sun
+
+OSIsoft Cloud Services
+https://cloud.osisoft.com/
+
+OSIsoft Cloud Services API Reference
+https://ocs-docs.osisoft.com/Content_Portal/Documentation/OSIsoft_Cloud_Services.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data collection and OSIsoft Message Format
+OSIsoft Message Format (OMF): to achieve high-throughput asynchronous data collection into the Sequential Data Store. 
+
+Producer: client identity to authenticate and send messages.
+OMF topics: aggregate OMF messages received from one or more clients and makes them available for consumption by a subscription.
+Subscription: consumes OMF messages from a topic and forwards them to a data store. Multiple subscriptions can retrieve OMF messages from a single topic.
+
+OSIsoft Message Format
+https://omf-docs.osisoft.com/
+Defines a set of message headers and bodies that can be used to generate messages for ingestion into a compliant back-end system.
+OMF can be used to develop data acquisition applications on platforms and in languages for which there are no supported OSIsoft libraries.
+OMF itself does not define or depend on any particular binary message protocol (HTTP, AMQP, Kafka, etc.) It is instead based on an abstract message type, where a message consists of a set of key / value pairs, called the headers, and a binary payload, called the body.
+OMF messages can thus be constructed using any message protocol that defines headers and bodies.
+
+Message Headers
+https://omf-docs.osisoft.com/documentation_v11/Headers.html
+
+Type Messages 
+https://omf-docs.osisoft.com/documentation_v11/Types/Type_Messages.html
+Type Example
+https://omf-docs.osisoft.com/documentation_v11/Types/Type_Msg_Example.html
+
+Container Messages
+https://omf-docs.osisoft.com/documentation_v11/Containers/Container_Messages.html
+Container Example
+https://omf-docs.osisoft.com/documentation_v11/Containers/Container_Msg_Example.html
+
+Data Messages
+https://omf-docs.osisoft.com/documentation_v11/Data/Data_Messages.html
+Data Example
+https://omf-docs.osisoft.com/documentation_v11/Data/Data_Msg_Example.html
+
+Message Size: maximum size of 192KB
+https://omf-docs.osisoft.com/documentation/HttpBehaviors/Message_Size.html
+
+
+
+
+
+
+
+
+
+
 2021.5.26 Wed
 
 Firefox add-ons: React Developer Tools
