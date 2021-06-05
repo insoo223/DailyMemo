@@ -1,0 +1,13 @@
+﻿memo on github 깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
+
+2021.6.5 Sat
+Value Semantics and C# structs
+To struct or not to struct
+http://blog.s-schoener.com/2018-03-04-value-semantics-csharp/
+
+Unity Animation Curves for Sampling
+A neat trick to allow designers to specify probability distributions
+http://blog.s-schoener.com/2018-05-05-animation-curves/
+
+PLCopen.org
+PLCopen Guidelines for usage of Object-Oriented Programming
