@@ -1,6 +1,19 @@
 ﻿memo on github 깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
 2021.6.5 Sat
+
+Digital Twin Market
+https://www.marketsandmarkets.com/Market-Reports/digital-twin-market-225269522.html?gclid=Cj0KCQjwweyFBhDvARIsAA67M71lVhGmPJn8nqKDDQ2EKzlVGw4wrVRR3WDnYo_JDD-_pUDk4hSjPGIaAniYEALw_wcB
+
+Digital Twin Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026) 
+https://www.mordorintelligence.com/industry-reports/digital-twin-market
+
+数字孪生
+http://dict.youdao.com/w/digital_twin/
+
+全球数字孪生市场大预测：2025 年的 358 亿美元，年复合增长率（CAGR）高达 37.8%
+https://www.sohu.com/a/361964621_465914
+
 Value Semantics and C# structs
 To struct or not to struct
 http://blog.s-schoener.com/2018-03-04-value-semantics-csharp/
