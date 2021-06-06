@@ -1,6 +1,42 @@
 ﻿memo on github 깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
+2021.6.6 Sun
+How to Use React-Router to create an SPA
+https://javascript.plainenglish.io/react-router-and-spas-made-easy-19fd1db0d6fc
+
+Why Poland is one of the best places to outsource your software development
+https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58
+
+Bootstrap’s cards
+https://getbootstrap.com/docs/5.0/components/card/
+Navbar
+https://getbootstrap.com/docs/5.0/components/navbar/
+
+Educational and training tutorials 
+https://www.automationdirect.com/videos/home
+
+Top Free PLC Simulator Software
+https://forumautomation.com/t/top-free-plc-simulator-software/2789/1
+
+Do-more PLC Simulator
+https://support.automationdirect.com/products/domore.html
+
+China wants to put itself back at the centre of the world
+https://www.economist.com/special-report/2020/02/06/china-wants-to-put-itself-back-at-the-centre-of-the-world
+
+Definition of the Fourier Series
+https://brilliant.org/wiki/fourier-series/
+
+PI Cloud is here
+https://www.youtube.com/watch?v=eINJcU11PpE
+
+
 2021.6.5 Sat
+All together now: the most trustworthy covid-19 model is an ensemble
+https://www.technologyreview.com/2021/05/28/1025478/covid-ensemble-model-forecast-trustworthy/
+
+How to Grow Aquarium Plants From Seeds—How Long Do They Take
+https://aquariawise.com/how-to-grow-aquarium-plants-from-seeds/
 
 Digital Twin Market
 https://www.marketsandmarkets.com/Market-Reports/digital-twin-market-225269522.html?gclid=Cj0KCQjwweyFBhDvARIsAA67M71lVhGmPJn8nqKDDQ2EKzlVGw4wrVRR3WDnYo_JDD-_pUDk4hSjPGIaAniYEALw_wcB
@@ -24,3 +60,4 @@ http://blog.s-schoener.com/2018-05-05-animation-curves/
 
 PLCopen.org
 PLCopen Guidelines for usage of Object-Oriented Programming
+https://plcopen.org/downloads?field_category_target_id=164
