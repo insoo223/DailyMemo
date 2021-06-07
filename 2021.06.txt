@@ -1,5 +1,10 @@
 ﻿memo on github 깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
+2021.6.7 Mon
+Amsterdam Dispatch
+Sinkholes, Collapsing Canal Walls, Rickety Bridges: Amsterdam Is Crumbling
+https://www.nytimes.com/2021/06/05/world/europe/amsterdam-crumbling-infrastructure-canals.html?action=click&module=Top%20Stories&pgtype=Homepage
+
 2021.6.6 Sun
 How to Use React-Router to create an SPA
 https://javascript.plainenglish.io/react-router-and-spas-made-easy-19fd1db0d6fc
