@@ -1,5 +1,10 @@
 ﻿memo on github 깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
+2021.6.9 Wed
+Rider for Unity: A smarter way to write C# for Unity
+https://www.jetbrains.com/dotnet/promo/unity/?rdt_cid=3309020458143146560
+
+
 2021.6.7 Mon
 Amsterdam Dispatch
 Sinkholes, Collapsing Canal Walls, Rickety Bridges: Amsterdam Is Crumbling
