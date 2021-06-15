@@ -1,5 +1,25 @@
 ﻿memo on github 깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
+2021.6.15 Tue
+
+** NYT: Can travel be fun again?
+
+hideous 견디기힘든/고통스런 경험, 사건 	    
+    1	hideous  
+	If you say that someone or something is hideous, you mean that they are very ugly or unattractive.
+	    She saw a hideous face at the window and screamed.
+	    ...hideous new Europe architecture, and horrible metal sculptures.
+	ADJ-GRADED  
+	= monstrous, horrible  
+    2	hideous  
+	You can describe an event, experience, or action as hideous when you mean that it is very unpleasant, painful, or difficult to bear.
+	    His family was subjected to a hideous attack by the gang.
+	    It's been a perfectly hideous day.
+	ADJ-GRADED  
+	= horrendous  
+(c) HarperCollins Publishers.
+
+
 2021.6.14 Mon
 
 ** NYT: It's irrelevant that Boris is incompetent
