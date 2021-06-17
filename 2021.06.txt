@@ -1,5 +1,33 @@
 ﻿memo on github 깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
+2021.6.16 Wed
+about-face  백팔십도 바뀐 태도
+    	about-face   about-faces  
+	An about-face is a complete change of attitude or opinion.
+	    Few observers believe the president will do an about-face and start spending more.
+	N-COUNT  
+	= about-turn, volte-face  
+(c) HarperCollins Publishers.
+
+snub  은근슬쩍 개무시, 콧대 높은
+    1	snub   snubs   snubbing   snubbed  
+	If you snub someone, you deliberately insult them by ignoring them or by behaving or speaking rudely towards them.
+	    He snubbed her in public and made her feel an idiot.
+	    They snubbed his invitation to a meeting of foreign ministers at the UN.
+	VB  
+	
+    2	snub   snubs  
+	If you snub someone, your behaviour or your remarks can be referred to as a snub.
+	    Ryan took it as a snub.
+	    The German move was widely seen as a deliberate snub to Mr Cook.
+	N-COUNT  
+	
+    3	snub  
+	Someone who has a snub nose has a short nose which points slightly upwards.
+	ADJ: ADJ n  
+	
+(c) HarperCollins Publishers.
+
 2021.6.15 Tue
 
 ** NYT: Can travel be fun again?
