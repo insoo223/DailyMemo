@@ -1,5 +1,9 @@
 ﻿memo on github 깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
+2021.6.19 Sat
+carl sagan cosmos (Youtube)
+https://www.youtube.com/watch?v=FT_nzxtgXEw
+
 2021.6.18 Fri
 Create Standalone Application Using Application Compiler App
 https://www.mathworks.com/help/compiler/create-and-install-a-standalone-application-from-matlab-code.html
