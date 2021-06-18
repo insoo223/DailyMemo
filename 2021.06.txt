@@ -1,6 +1,9 @@
 ﻿memo on github 깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
 2021.6.18 Fri
+Create Standalone Application Using Application Compiler App
+https://www.mathworks.com/help/compiler/create-and-install-a-standalone-application-from-matlab-code.html
+
 MATLAB Speaks C++
 https://blogs.mathworks.com/developer/2019/07/11/cpp-interface/
 
@@ -19,6 +22,15 @@ https://zone.ni.com/reference/en-XX/help/371361R-01/lvhowto/creating_a_matlab_sc
 
 이기적 유전자(40주년 기념판)
 리처드 도킨스 지음 | 홍영남 , 이상임 옮김 | 을유문화사 | 2018년 10월 20일 출간 (1쇄 1993년 11월 15일) 
+
+Actor Framework Fundamentals
+file:///C:/Program%20Files%20(x86)/National%20Instruments/LabVIEW%202020/examples/Design%20Patterns/Actor%20Framework/Documentation/Readme.html
+
+Real-Time Direction Finding and Spectrum Monitoring with Software Defined Radios
+https://www.ni.com/ko-kr/innovations/videos/17/real-time-direction-finding-and-spectrum-monitoring-with-softwar.html
+
+git discard local changes
+https://www.google.com/search?client=firefox-b-d&q=git+discard+local+changes
 
 2021.6.16 Wed
 about-face  백팔십도 바뀐 태도
