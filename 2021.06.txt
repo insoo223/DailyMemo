@@ -1,6 +1,21 @@
 ﻿memo on github 깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
 2021.6.18 Fri
+MATLAB Speaks C++
+https://blogs.mathworks.com/developer/2019/07/11/cpp-interface/
+
+The Gift of Service(s)
+https://blogs.mathworks.com/developer/2020/12/15/cloud-ci-services/
+
+Integrating Compiled MATLAB Functions with LabVIEW with a .NET Assembly Approach
+https://knowledge.ni.com/KnowledgeArticleDetails?id=kA03q000000YGE2CAO&l=ko-KR
+
+Generate a .NET Assembly and Build a .NET Application
+https://www.mathworks.com/help/compiler_sdk/gs/create-a-dotnet-application-with-matlab-code.html
+
+Calling the MATLAB® Software from LabVIEW
+https://zone.ni.com/reference/en-XX/help/371361R-01/lvhowto/creating_a_matlab_script/
+
 
 이기적 유전자(40주년 기념판)
 리처드 도킨스 지음 | 홍영남 , 이상임 옮김 | 을유문화사 | 2018년 10월 20일 출간 (1쇄 1993년 11월 15일) 
