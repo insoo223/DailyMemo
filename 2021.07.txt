@@ -1,6 +1,9 @@
 ﻿memo on github 깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
 2021.7.2 Fri
+https://www.cc.lu/en/covid19/news/article/detail/first-hack-the-crisis-in-luxembourg-200-participants-33-solutions-and-5-winners-to-fight-the-covid-1/
+First Hack the Crisis in Luxembourg: 200 participants, 33 solutions and 5 winners to fight the COVID-19 crisis
+
 https://sloanreview.mit.edu/article/the-art-of-balancing-autonomy-and-control/
 The Art of Balancing Autonomy and Control
 Here’s what managers can learn from hackathon organizers about spurring innovation.
