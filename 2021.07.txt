@@ -1,6 +1,12 @@
-﻿memo on github 깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
+﻿깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
+
 
 2021.7.2 Fri
+
+https://sloanreview.mit.edu/article/why-companies-must-embrace-microservices-and-modular-thinking/?utm_source=newsletter&utm_medium=email&utm_content=Why%20Companies%20Must%20Embrace%20Microservices%20and%20Modular%20Thinking&utm_campaign=Enews%20DC%26S%205/13/2021
+Why Companies Must Embrace Microservices and Modular Thinking
+Organizations can reduce coordination complexity with modular thinking, microservices, and APIs.memo on github 
+
 https://www.cc.lu/en/covid19/news/article/detail/first-hack-the-crisis-in-luxembourg-200-participants-33-solutions-and-5-winners-to-fight-the-covid-1/
 First Hack the Crisis in Luxembourg: 200 participants, 33 solutions and 5 winners to fight the COVID-19 crisis
 
