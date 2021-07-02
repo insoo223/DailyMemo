@@ -2,6 +2,8 @@
 
 
 2021.7.2 Fri
+https://stackoverflow.com/questions/17826380/what-is-difference-between-functional-and-imperative-programming-languages
+What is difference between functional and imperative programming languages?
 
 https://sloanreview.mit.edu/article/why-companies-must-embrace-microservices-and-modular-thinking/?utm_source=newsletter&utm_medium=email&utm_content=Why%20Companies%20Must%20Embrace%20Microservices%20and%20Modular%20Thinking&utm_campaign=Enews%20DC%26S%205/13/2021
 Why Companies Must Embrace Microservices and Modular Thinking
