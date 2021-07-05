@@ -1,5 +1,17 @@
 ﻿깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
+2021.7.5 Mon
+
+Lessons learned from becoming CTO of a small startup
+https://vadimkravcenko.com/en/switching-from-engineering-to-management/
+
+Purdue CS590: Cloud-Native Database Systems (Spring 2021) https://www.cs.purdue.edu/homes/csjgwang/cloudb/
+
+Let's Build a Simple Database: Writing a sqlite clone from scratch in C
+https://cstack.github.io/db_tutorial/
+
+Hacker News: https://news.ycombinator.com/
+
 2021.7.3 Sat
 JavaScript Number Methods
 https://www.w3schools.com/js/js_number_methods.asp
