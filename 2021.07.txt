@@ -2,6 +2,9 @@
 
 2021.7.5 Mon
 
+Firefox Dark Reader add-on
+https://addons.mozilla.org/en-US/firefox/addon/darkreader/
+
 Lessons learned from becoming CTO of a small startup
 https://vadimkravcenko.com/en/switching-from-engineering-to-management/
 
