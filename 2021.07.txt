@@ -1,6 +1,11 @@
 ﻿깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
 2021.7.5 Mon
+lowdb: Tiny local JSON database for small projects
+https://github.com/typicode/lowdb
+
+Bitcask: A Log-Structured Hash Table for Fast Key/Value Data
+https://github.com/basho/bitcask
 
 Firefox Dark Reader add-on
 https://addons.mozilla.org/en-US/firefox/addon/darkreader/
