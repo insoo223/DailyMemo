@@ -1,5 +1,21 @@
 ﻿깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
+2021.7.13 Tue
+NYT We are going to publish: An Oral History of the Pentagon Papers (about Vietnam War)
+https://www.nytimes.com/interactive/2021/06/09/us/pentagon-papers-oral-history.html
+
+Carl Sagan Cosmos Episode 1: The shores of the cosmic ocean 1980
+https://www.youtube.com/watch?v=FT_nzxtgXEw
+
+Git experience in Visual Studio
+https://docs.microsoft.com/en-us/visualstudio/version-control/git-with-visual-studio?view=vs-2019
+
+JSON Array Litterals
+https://www.w3schools.com/js/js_json_arrays.asp
+
+2 Best MongoDB Books For Teaching Yourself
+https://whatpixel.com/best-mongodb-books/
+
 2021.7.5 Mon
 lowdb: Tiny local JSON database for small projects
 https://github.com/typicode/lowdb
