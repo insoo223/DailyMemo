@@ -1,5 +1,13 @@
 ﻿깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
+2021.7.14 Wed
+Machine Learning with MATLAB: Abhishek Gupta, MathWorks
+https://www.mathworks.com/videos/machine-learning-with-matlab-81984.html
+
+Machine Learning Made Easy
+
+Shashank Prasanna, MathWorks
+
 2021.7.13 Tue
 NYT We are going to publish: An Oral History of the Pentagon Papers (about Vietnam War)
 https://www.nytimes.com/interactive/2021/06/09/us/pentagon-papers-oral-history.html
