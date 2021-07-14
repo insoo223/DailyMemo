@@ -1,6 +1,15 @@
 ﻿깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
 2021.7.14 Wed
+Simulink를 사용한 신호 처리
+https://www.youtube.com/watch?v=SCPSO95EvzQ
+
+How to add caption to a figure in Word and insert a new Label for a caption
+https://wordknowhow.blog/2013/04/09/how-to-add-caption-to-a-figure-in-word-and-insert-a-new-label-for-a-caption-in-word/
+
+Microsoft Word Template Shortcuts
+https://techwritertemplates.com/documentation/reference/microsoft-word-template-shortcuts/
+
 Machine Learning with MATLAB: Abhishek Gupta, MathWorks
 https://www.mathworks.com/videos/machine-learning-with-matlab-81984.html
 
