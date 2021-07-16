@@ -1,6 +1,10 @@
 ﻿깃허브에 메모를 하자. 언제 어디서나 보고, 쓰고, 내 느낌을 공유하게.
 
 2021.7.15 Thu
+How to record the screen on your Mac
+https://support.apple.com/en-us/HT208721
+-> cmd + shft + 5
+
 
 2021.7.14 Wed
 Simulink를 사용한 신호 처리
